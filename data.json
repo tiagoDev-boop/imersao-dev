@@ -1,0 +1,302 @@
+[
+  {
+    "nome": "Go (Golang)",
+    "descricao": "Linguagem de programa\nA\nÃ£o compilada, desenvolvida pelo Google, focada em efici\nA\nÃªncia e concorr\nA\n\nA\nncia.",
+    "data_criacao": "2009",
+    "link": "https://go.dev/",
+    "tags": [
+      "linguagem de programa\nA\nÃ£o",
+      "backend",
+      "concorr\nA\n\nA\nncia",
+      "performance"
+    ]
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superconjunto de JavaScript que adiciona tipagem est\nA\ntica opcional \nA\n\nA\n linguagem.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem de programa\nA\nÃ£o",
+      "frontend",
+      "backend",
+      "tipagem est\nA\ntica"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programa\nA\nÃ£o moderna e pragm\nA\ntica que roda na JVM, amplamente utilizada para desenvolvimento Android.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programa\nA\nÃ£o",
+      "mobile",
+      "backend",
+      "JVM"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programa\nA\nÃ£o focada em seguran\nA\n\nA\na, especialmente concorr\nA\n\nA\nncia e mem\nA\n\nA\nria, sem um coletor de lixo.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programa\nA\nÃ£o",
+      "sistemas",
+      "seguran\nA\n\nA\na",
+      "performance"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Linguagem de programa\nA\nÃ£o poderosa e intuitiva desenvolvida pela Apple para iOS, macOS, watchOS e tvOS.",
+    "data_criacao": "2014",
+    "link": "https://www.swift.org/",
+    "tags": [
+      "linguagem de programa\nA\nÃ£o",
+      "mobile",
+      "iOS",
+      "Apple"
+    ]
+  },
+  {
+    "nome": "React",
+    "descricao": "Biblioteca JavaScript declarativa, eficiente e flex\nA\n\nA\nvel para construir interfaces de usu\nA\n\nA\nrio.",
+    "data_criacao": "2013",
+    "link": "https://reactjs.org/",
+    "tags": [
+      "frontend",
+      "biblioteca",
+      "UI/UX",
+      "JavaScript"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Framework de desenvolvimento de aplica\nA\n\nA\n\nA\nes front-end mantido pelo Google.",
+    "data_criacao": "2016",
+    "link": "https://angular.io/",
+    "tags": [
+      "framework",
+      "frontend",
+      "TypeScript",
+      "SPA"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo e reativo para constru\nA\n\nA\n\nA\no de interfaces de usu\nA\n\nA\nrio.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "reatividade",
+      "JavaScript"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Ambiente de execu\nA\n\nA\n\nA\no JavaScript ass\nA\n\nA\nncrono baseado no motor V8 do Chrome.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "ambiente de execu\nA\n\nA\n\nA\no",
+      "backend",
+      "JavaScript",
+      "I/O ass\nA\n\nA\nncrona"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework de React que facilita a renderiza\nA\n\nA\n\nA\no do lado do servidor (SSR) e a gera\nA\n\nA\n\nA\no de sites est\nA\nticos (SSG).",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "full-stack",
+      "SSR"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma para desenvolver, enviar e executar aplica\nA\n\nA\n\nA\nes dentro de cont\nA\n\nA\nineres leves e port\nA\n\nA\nteis.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "containeriza\nA\n\nA\n\nA\no",
+      "devops",
+      "virtualiza\nA\n\nA\n\nA\no",
+      "ferramentas"
+    ]
+  },
+  {
+    "nome": "Kubernetes (K8s)",
+    "descricao": "Sistema open-source para automatizar a implanta\nA\n\nA\n\nA\no, o dimensionamento e o gerenciamento de aplica\nA\n\nA\n\nA\nes em cont\nA\n\nA\nineres.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "orquestra\nA\n\nA\n\nA\no",
+      "devops",
+      "cloud",
+      "automa\nA\n\nA\n\nA\no"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como C\nA\n\nA\ndigo (IaC) que permite provisionar e gerenciar infraestrutura em nuvem.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "devops",
+      "IaC",
+      "cloud computing",
+      "automa\nA\n\nA\n\nA\no"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Servi\nA\n\nA\no de computa\nA\n\nA\n\nA\no serverless que executa c\nA\n\nA\ndigo em resposta a eventos sem gerenciar servidores.",
+    "data_criacao": "2014",
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "serverless",
+      "cloud computing",
+      "FaaS",
+      "AWS"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados relacional de c\nA\n\nA\ndigo aberto, robusto e extens\nA\n\nA\nvel.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "relacional",
+      "SQL",
+      "open source"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL orientado a documentos, conhecido por sua flexibilidade e escalabilidade horizontal.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "NoSQL",
+      "documentos",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Um armazenamento de estrutura de dados em mem\nA\n\nA\nria, usado como cache, broker de mensagens e banco de dados.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "banco de dados",
+      "cache",
+      "key-value",
+      "performance"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta para APIs desenvolvida pelo Facebook, que permite solicitar exatamente os dados necess\nA\n\nA\nrios.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "API",
+      "linguagem de consulta",
+      "backend",
+      "web services"
+    ]
+  },
+  {
+    "nome": "gRPC",
+    "descricao": "Um framework de chamada de procedimento remoto de alto desempenho e open source desenvolvido pelo Google.",
+    "data_criacao": "2015",
+    "link": "https://grpc.io/",
+    "tags": [
+      "comunica\nA\n\nA\n\nA\no",
+      "microservices",
+      "RPC",
+      "networking"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Uma plataforma de streaming de eventos distribu\nA\n\nA\n\nA\nda capaz de lidar com grandes volumes de dados.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming",
+      "big data",
+      "mensageria",
+      "eventos"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Framework que simplifica a cria\nA\n\nA\n\nA\no de aplica\nA\n\nA\n\nA\nes Java aut\nA\n\nA\nnomas e prontas para produ\nA\n\nA\n\nA\no.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "framework",
+      "backend",
+      "Java",
+      "microservices"
+    ]
+  },
+  {
+    "nome": "Laravel",
+    "descricao": "Framework PHP elegante e expressivo, projetado para o desenvolvimento de aplica\nA\n\nA\n\nA\nes web robustas.",
+    "data_criacao": "2011",
+    "link": "https://laravel.com/",
+    "tags": [
+      "framework",
+      "backend",
+      "PHP",
+      "web development"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Um compilador que transforma componentes em c\nA\n\nA\ndigo JavaScript eficiente no tempo de compila\nA\n\nA\n\nA\no.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "frontend",
+      "framework",
+      "compilador",
+      "performance"
+    ]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Sistema de controle de vers\nA\n\nA\no distribu\nA\n\nA\n\nA\ndo amplamente utilizado para rastrear mudan\nA\n\nA\ns no c\nA\n\nA\ndigo-fonte.",
+    "data_criacao": "2005",
+    "link": "https://git-scm.com/",
+    "tags": [
+      "controle de vers\nA\n\nA\no",
+      "ferramentas",
+      "desenvolvimento",
+      "colabora\nA\n\nA\n\nA\no"
+    ]
+  },
+  {
+    "nome": "Scrum",
+    "descricao": "Metodologia \nA\ngil para gerenciar projetos complexos, focada em itera\nA\n\nA\n\nA\nes curtas (sprints).",
+    "data_criacao": "1990",
+    "link": "https://www.scrum.org/",
+    "tags": [
+      "metodologia",
+      "agil",
+      "gest\nA\n\nA\no de projetos",
+      "desenvolvimento"
+    ]
+  }
+]
